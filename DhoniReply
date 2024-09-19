@@ -7,3 +7,12 @@ All text in bold corresponds to input and the rest corresponds to output.
 p=input("Banerjee's Question:\n")
 r=input("Dhoni's Reply:\n")
 print("For Banerjee's Question \"{}\" Dhoni's Confident reply was \"{}\"".format(p,r))
+
+
+'''
+output
+p=input("Banerjee's Question:\n")
+r=input("Dhoni's Reply:\n")
+print("For Banerjee's Question \"{}\" Dhoni's Confident reply was \"{}\"".format(p,r))
+
+'''
